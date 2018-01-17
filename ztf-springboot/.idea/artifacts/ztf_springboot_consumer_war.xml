@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ztf-springboot-consumer:war">
+    <output-path>$PROJECT_DIR$/ztf-springboot-consumer/target</output-path>
+    <root id="archive" name="ztf-springBoot.war">
+      <element id="artifact" artifact-name="ztf-springboot-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

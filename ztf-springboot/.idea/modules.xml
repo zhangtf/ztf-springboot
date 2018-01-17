@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ztf-springboot.iml" filepath="$PROJECT_DIR$/ztf-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ztf-springboot-api/ztf-springboot-api.iml" filepath="$PROJECT_DIR$/ztf-springboot-api/ztf-springboot-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ztf-springboot-consumer/ztf-springboot-consumer.iml" filepath="$PROJECT_DIR$/ztf-springboot-consumer/ztf-springboot-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ztf-springboot-provider/ztf-springboot-provider.iml" filepath="$PROJECT_DIR$/ztf-springboot-provider/ztf-springboot-provider.iml" />
+    </modules>
+  </component>
+</project>
